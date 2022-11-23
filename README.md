@@ -1,0 +1,1 @@
+# This project uses python's module named "BeautifulSoup" for web scrapping a website consisting data about chocolates all over the world.Several other python modules such as matplot,pandas were also used
